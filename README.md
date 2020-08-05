@@ -23,6 +23,6 @@ I am an Electrical Enginner Professor. :zap: 👨‍🏫
  🏫  &nbsp; I am currently working at CEUPI and UniFacid
  <br/> :blush: &nbsp; I can help you with Matlab, Octave and some Python
  <br/> 💬  &nbsp; About me: I like technology, science, games, sports and movies
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-BrenoAndrade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-andrade-72539283/)](https://www.linkedin.com/in/breno-andrade-72539283/) 
+ <br/> :email: &nbsp; Contact: [![Linkedin Badge](https://img.shields.io/badge/-BrenoAndrade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-andrade-72539283/)](https://www.linkedin.com/in/breno-andrade-72539283/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-breno.ar.andrade@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:breno.ar.andrade@gmail.com)](mailto:breno.ar.andrade@gmail.com)
