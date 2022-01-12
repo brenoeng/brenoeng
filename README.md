@@ -20,7 +20,7 @@ I really like solving problems with code.
 
 I am an Electrical Enginner Professor. :zap: 👨‍🏫
 
- 🏫  &nbsp; I am currently working at CEUPI and UniFacid
+ 🏫  &nbsp; I am currently working at CEUPI
  <br/> :blush: &nbsp; I can help you with Matlab, Octave and some Python
  <br/> 💬  &nbsp; About me: I like technology, science, games, sports and movies
  <br/> :email: &nbsp; Contact: [![Linkedin Badge](https://img.shields.io/badge/-BrenoAndrade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-andrade-72539283/)](https://www.linkedin.com/in/breno-andrade-72539283/) 
